@@ -1,14 +1,14 @@
 let data = [
+    // {
+    //     id: 0, title: "Jump into the Sky (Mavis)", description: 
+    //     "Jump, parkour, and earn Ronin tokens in the sky – it's all free!",
+    //     image: "./crossads/images/com.onlywayisup.climbparkour.png",
+    //     imageIcon: "./imageWeb/website.png",
+    //     linkIcon: "https://littlegreengames.itch.io/only-way-is-up",
+    //     textHeaderIcon: "Website", textMoreIcon: "(free to earn)",
+    // },
     {
-        id: 0, title: "Jump into the Sky (Mavis)", description: 
-        "Jump, parkour, and earn Ronin tokens in the sky – it's all free!",
-        image: "./crossads/images/com.onlywayisup.climbparkour.png",
-        imageIcon: "./imageWeb/website.png",
-        linkIcon: "https://littlegreengames.itch.io/only-way-is-up",
-        textHeaderIcon: "Website", textMoreIcon: "(free to earn)",
-    },
-    {
-        id: 1, title: "Axie Tri-Force", description: 
+        id: 0, title: "Axie Tri-Force", description: 
         "First, Little Green Games and SkyMavis have combined forces, and their creation is now available on Greenlight.",
         image: "./crossads/images/com.SkyMavis.AxieMiniTriforce.png",
         imageIcon: "./imageWeb/skymavis.png",
@@ -16,7 +16,7 @@ let data = [
         textHeaderIcon: "Mavis Hub", textMoreIcon: "(available)",
     },
     {
-        id: 2, title: "Axie Backpack", description: 
+        id: 1, title: "Axie Backpack", description: 
         "Turns are your chance to make moves, shoot, use skills, and engage in combat actions, all packed with excitement.",
         image: "./crossads/images/com.SkyMavis.AxieBackpack.png",
         imageIcon: "./imageWeb/skymavis.png",
